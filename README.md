@@ -1,7 +1,5 @@
 # EVIL HANGMAN PROJECT 
 
-## Author: Amelia (Tram-Anh) Do, Uyen Bui. 
-
 ## References: 
 (1) EvilHangman.java. Author: Professor Todd Neller. <br>
 (2) Instructions for GUI. http://cs.gettysburg.edu/~tneller/cs112/flutter-game.html. <br>
